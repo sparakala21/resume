@@ -37,6 +37,21 @@
       "startDate": "2021-08-28",
       "area": "Computer Science",
       "studyType": "Bachelors",
+      "gpa": "3.16",
+      "institution": "Rensselaer Polytechnic Institute",
+      "courses": [
+        "Data Structures and Algorithms",
+        "Database Systems",
+        "Software Engineering",
+        "Machine Learning"
+      ]
+    },
+    {
+      "endDate": "2026-05-11",
+      "startDate": "2025-08-28",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "gpa": "3.16",
       "institution": "Rensselaer Polytechnic Institute"
     }
   ],
@@ -51,14 +66,44 @@
       "name": "Frontend"
     },
     {
-      "keywords": ["Node", "Ruby", "Python", "Postgres", "Redis", "Serverless"],
+      "keywords": [
+        "Node",
+        "Ruby",
+        "Python",
+        "Postgres",
+        "Redis",
+        "Serverless"
+      ],
       "level": "Senior",
       "name": "Backend"
     },
     {
-      "keywords": ["Amazon Web Services", "Google Cloud Platform", "Heroku", "Caching", "GitHub Actions", "Jenkins CI", "Docker"],
+      "keywords": [
+        "Amazon Web Services",
+        "Google Cloud Platform",
+        "Heroku",
+        "Caching",
+        "GitHub Actions",
+        "Jenkins CI",
+        "Docker"
+      ],
       "level": "Senior",
       "name": "Devops"
+    },
+    {
+      "keywords": [
+        "Data Structures",
+        "Introduction to algorithms",
+        "Operating Systems",
+        "Database Systems",
+        "Machine Learning from Data",
+        "Robotics",
+        "Software Design and Documentation",
+        "Data Analytics Data Mining",
+        "Foundations of HCI",
+        "Cloud Security"
+      ],
+      "name": "Coursework"
     }
   ],
   "awards": [
@@ -74,9 +119,9 @@
   "work": [
     {
       "highlights": [
-      "Designed and implemented a data entry system enabling students to log reading progress and teachers to validate submissions, improving data accuracy and workflow efficiency",
-      "Developed a recommendation engine proof‑of‑concept using graph‑based collaborative filtering algorithms to enhance user content discovery",
-      "Rebuilt marketing website to eliminate HubSpot dependency, reducing annual costs by thousands a year."
+        "Designed and implemented a data entry system enabling students to log reading progress and teachers to validate submissions, improving data accuracy and workflow efficiency",
+        "Developed a recommendation engine proof‑of‑concept using graph‑based collaborative filtering algorithms to enhance user content discovery",
+        "Rebuilt marketing website to eliminate HubSpot dependency, reducing annual costs by thousands a year."
       ],
       "summary": "Built and owned marketing website, laid out a development plan for the company as it went forward",
       "website": "marketing.remo.app",
@@ -84,7 +129,7 @@
       "name": "ReMo",
       "position": "Fullstack Developer",
       "startDate": "2025-05-15",
-      "endDate": "present"
+      "endDate": "2024-09-16"
     },
     {
       "highlights": [
@@ -95,7 +140,7 @@
       "pinned": true,
       "summary": "Hired to bring ML Deployment platform to the same best practices.",
       "website": "",
-      "name": "Cdnjs",
+      "name": "Merck and Company",
       "position": "MLOps Engineer",
       "startDate": "2024-06-03",
       "endDate": "2025-09-23"
@@ -131,7 +176,9 @@
       "startDate": "2022-08-26"
     },
     {
-      "highlights": [""],
+      "highlights": [
+        ""
+      ],
       "summary": "Cartesian representation of artist relationship data using over 7000 of the worlds most popular artists in the worlds most popular genres.",
       "website": "https://sparakala21.github.io/artist2vec2d/",
       "pinned": true,
@@ -148,20 +195,6 @@
       "name": "GDGC@RPI",
       "position": "Relationship Director",
       "startDate": "2025-01-09"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Chess"
-    },
-    {
-      "name": "Blogging"
-    },
-    {
-      "name": "Cricket"
-    },
-    {
-      "name": "Open Source"
     }
   ]
 }

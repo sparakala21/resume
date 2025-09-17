@@ -1,19 +1,19 @@
 {
-  "name": "thomasdavis",
+  "name": "Sravan Parakala",
   "version": "1.0.0",
-  "description": "This is the resume of Thomas Davis. God of web development.",
+  "description": "This is the resume of Sravan Parakala. God of web development.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasdavis/resume.git"
+    "url": "git+https://github.com/sparakala21/resume.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "Thomas Davis",
+  "author": "Sravan Parakala",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/thomasdavis/resume/issues"
