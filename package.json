@@ -1,26 +1,18 @@
 {
-  "name": "Sravan Parakala",
+  "name": "resume",
   "version": "1.0.0",
-  "description": "This is the resume of Sravan Parakala. God of web development.",
+  "description": "resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sparakala21/resume.git"
+    "url": "github.com/sparakala21/resume"
   },
-  "keywords": [
-    "resume"
-  ],
-  "author": "Sravan Parakala",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thomasdavis/resume/issues"
-  },
-  "homepage": "https://github.com/sparakala21/resume#readme",
   "dependencies": {
-    "jsonresume-theme-even": "^0.26.0",
-    "resumed": "^6.0.0"
+    "resume-cli": "^3.0.8"
   }
 }
