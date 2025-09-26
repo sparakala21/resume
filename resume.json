@@ -49,10 +49,16 @@
     {
       "endDate": "2026-05-11",
       "startDate": "2025-08-28",
-      "area": "Computer Science",
+      "area": "Information Technology and Web Science",
       "studyType": "Masters",
       "gpa": "3.16",
-      "institution": "Rensselaer Polytechnic Institute"
+      "institution": "Rensselaer Polytechnic Institute",
+      "courses": [
+        "Human Computer Interaction",
+        "Data Mining",
+        "Cloud Security",
+        "Applied Data Science"
+      ]
     }
   ],
   "skills": [
@@ -62,7 +68,6 @@
         "Javascript / Typescript",
         "React / Next"
       ],
-      "level": "Senior",
       "name": "Frontend"
     },
     {
@@ -74,21 +79,18 @@
         "Redis",
         "Serverless"
       ],
-      "level": "Senior",
       "name": "Backend"
     },
     {
       "keywords": [
         "Amazon Web Services",
         "Google Cloud Platform",
-        "Heroku",
-        "Caching",
         "GitHub Actions",
         "Jenkins CI",
-        "Docker"
+        "Docker",
+        "AWS IAM"
       ],
-      "level": "Senior",
-      "name": "Devops"
+      "name": "DevOps"
     },
     {
       "keywords": [
